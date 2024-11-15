@@ -39,20 +39,7 @@ Important Notes:
 
 Ensure the dataset files are correctly placed in the data/ directory before running the notebook.
 Check the first cell for any specific configurations or paths you need to update.
-Project Structure
-The repository contains the following structure:
 
-bash
-Copy code
-.
-├── data/
-│   ├── train.csv           # Training dataset (from Kaggle)
-│   ├── test.csv            # Test dataset (from Kaggle)
-│   └── (other data files)
-├── notebook_name.ipynb     # Main Jupyter Notebook
-├── requirements.txt        # List of required Python packages
-├── README.md               # Project instructions
-└── output/                 # Folder for generated outputs (if applicable)
 Key Features
 Data Preprocessing: Handles missing values, feature scaling, and encoding.
 Model Training: Includes model selection, hyperparameter tuning, and evaluation.
