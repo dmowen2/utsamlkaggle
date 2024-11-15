@@ -1,14 +1,7 @@
 ML Kaggle Project
 This repository contains code for a machine learning project developed to analyze and model data from Kaggle. The primary code is contained in a Jupyter Notebook (.ipynb) file, which must be executed sequentially to reproduce the results.
 
-Table of Contents
-Prerequisites
-Installation
-Dataset
-Instructions for Reproducing the Code
-Project Structure
-Key Features
-Acknowledgements
+
 Prerequisites
 Before running the code, ensure you have the following installed:
 
